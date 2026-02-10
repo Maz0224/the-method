@@ -47,6 +47,7 @@ The Method 🔛🔝
 - [Itch.io](https://itch.io)
 - [Twitch](https://www.twitch.tv)
 - [Poki](https://poki.com)
+- [Now.gg](https://now.gg)
 
 ---
 
